@@ -114,6 +114,8 @@ The main concept of OSI is the process of communication between two end points i
 
 ## References :
 
-* cloudflare.com
-* wallaram.com
-* scaler.com
+* https://www.cloudflare.com/en-in/learning/ddos/glossary/open-systems-interconnection-model-osi/
+
+* https://www.wallarm.com/what/osi-model-explanation
+
+* https://www.scaler.com/topics/osi-model/
